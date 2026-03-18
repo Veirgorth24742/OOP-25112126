@@ -44,5 +44,5 @@ rect = Rectangle(Point(50,80),60,90)
 
 print(f"Điểm 1 trong vòng tròn: {point_in_circle(circle,point1)}")
 print(f"Điểm 2 trong vòng tròn: {point_in_circle(circle,point2)}")
-print(f"Rectangle trong vòng tròn: {rect_in_circle(circle, rect)}")
-print(f"Rectangle giao với vòng tròn: {rect_circle_overlap(circle, rect)}")
+print(f"Tứ giác nằm trong vòng tròn: {rect_in_circle(circle, rect)}")
+print(f"Tứ giác giao với vòng tròn: {rect_circle_overlap(circle, rect)}")
