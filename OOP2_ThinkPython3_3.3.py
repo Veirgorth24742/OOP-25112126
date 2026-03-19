@@ -5,7 +5,7 @@ def draw_grid(cols, rows):
     gridRows = "+" + (" -" * 4 + " +") * (cols - 1)
     gridColumns = ("|" + " " * 9) * (cols - 1) + "|"
 
-    print(cacHang)
+    print(gridRows)
     for _ in range(rows - 1):
         for _ in range(4):
             print(gridColumns)
