@@ -1,0 +1,3 @@
+HangDienMay('DM1', 'Tủ Lạnh', 'LG', 11000000)
+HangSanhSu('SS1', 'Bát Sứ', 'Bát Tràng', 400000)
+HangThucPham('TP1', 'CocaCola', 'PepsiCola', 10000)

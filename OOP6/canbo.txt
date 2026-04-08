@@ -1,0 +1,15 @@
+  Tên cán bộ        :       Nguyễn Văn A
+  Tuổi              :       30   
+  Giới tính         :       Nam  
+  Địa chỉ           :       Hà Nội
+  Công nhân bậc 5
+  Tên cán bộ        :       Trần Thị B
+  Tuổi              :       28   
+  Giới tính         :       Nữ   
+  Địa chỉ           :       HCM  
+  Kỹ sư CNTT
+  Tên cán bộ        :       Lê Văn C
+  Tuổi              :       35   
+  Giới tính         :       Nam  
+  Địa chỉ           :       Đà Nẵng
+  Nhân viên Kế toán
